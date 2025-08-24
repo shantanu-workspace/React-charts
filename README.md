@@ -2,7 +2,9 @@
 
 A dynamic and visually appealing dashboard built with **React** and **Vite**, showcasing various types of data visualizations for a fictional NGO. This project was created to explore the fundamentals of React, component-based architecture, and data visualization using the Recharts library.
 
+![NGO Dashboard Preview](./assets/your-main-screenshot.png)
 
+---
 
 ## ✨ Features
 
@@ -16,6 +18,16 @@ A dynamic and visually appealing dashboard built with **React** and **Vite**, sh
   - Radar Charts
   - Composed Charts
 - **Styled Background**: Features a subtle, aesthetically pleasing gradient background.
+
+---
+
+## 🖼️ Screenshots
+
+Here are a few glimpses of the application:
+
+| Welcome Page | Chart Variety | More Charts |
+| :---: | :---: | :---: |
+| ![Welcome Page](./Images/chart1.png) | ![Chart Variety](./Images/chart2.png) | ![More Charts](./Images/chart3.png) |
 
 ---
 
