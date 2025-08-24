@@ -1,0 +1,26 @@
+/*
+this is the orange color 
+  body {
+    margin: 0;
+    font-family: sans-serif;
+  
+    
+    background: linear-gradient(to bottom, #FFDAB9, #FFFFFF);
+  
+    min-height: 100vh; 
+    color: #333;
+  }
+*/
+
+/*this is blue color*/
+body {
+  margin: 0;
+  font-family: sans-serif;
+
+  /* A subtle gradient from a light blue to white */
+  background: linear-gradient(to bottom, #ADD8E6, #FFFFFF);
+
+  min-height: 100vh; /* Ensures the gradient covers the full screen height */
+  color: #333;
+}
+
